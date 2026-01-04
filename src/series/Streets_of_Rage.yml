@@ -22,6 +22,7 @@ randomizers:
     multiworld: Archipelago
     updated-date: 2026-01-04
     added-date: 2026-01-04
+    opensource: True
 -   games:
     - Streets of Rage 2
     - Streets of Rage 2 Syndicate Wars (hack)
