@@ -2,6 +2,9 @@ name: Streets of Rage
 comment: ''
 sub-series: []
 games:
+    Streets of Rage 1:
+        genres: []
+        platforms: []
     Streets of Rage 2:
         genres: []
         platforms: []
@@ -12,6 +15,13 @@ games:
         genres: []
         platforms: []
 randomizers:
+-   games:
+    - Streets of Rage 1
+    identifier: Archipelago
+    url: https://github.com/UltiNaruto/SOR_AP_Randomizer/
+    multiworld: Archipelago
+    updated-date: 2026-01-04
+    added-date: 2026-01-04
 -   games:
     - Streets of Rage 2
     - Streets of Rage 2 Syndicate Wars (hack)
